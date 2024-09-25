@@ -1,4 +1,4 @@
 # Samosa-clicker
 
-This game took inspiration from the famous game cookie clicker. It was made with react and javascript.
+This game was inspired by the famous game Cookie Clicker and was made using React and JavaScript.
 
