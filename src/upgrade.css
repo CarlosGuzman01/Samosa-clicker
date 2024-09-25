@@ -1,0 +1,11 @@
+.upgrade {
+    border: 1px solid rgba(153, 153, 153, 0.497);
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    margin-right: 25px;
+    width: 200px;
+    line-height: 0.5;
+  }
